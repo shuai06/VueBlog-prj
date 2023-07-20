@@ -1,0 +1,6 @@
+*.class
+.DS_Store
+.idea
+vueblog1/.idea
+vueblog1/target
+vueblog-vue/node_modules
